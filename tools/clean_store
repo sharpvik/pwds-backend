@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+
+store="/home/sharpvik/go/src/github.com/sharpvik/pwds-backend/store"
+
+rm -r $store/*
